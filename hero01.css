@@ -202,7 +202,7 @@ html {
 }
 
 /* Responsive (Mobile) */
-@media only screen and (max-width: 825px) {
+@media only screen and (max-width: 650px) {
   .hero_noticia img {
     grid-column: 1 / -1;
     grid-row: 1 / 6;
@@ -226,7 +226,7 @@ html {
   }
 
   .hero_noticia article p {
-    font-size: 1.1rem;
+    font-size: 1.4rem;
   }
 
   .hero_noticia article .buttons {
@@ -235,7 +235,7 @@ html {
 
   .hero_noticia article .buttons button {
     width: 150px;
-    font-size: 1rem;   
+    font-size: 1.3rem;   
   }
 
   .hero .hero_noticia .hero_nav_buttons {
